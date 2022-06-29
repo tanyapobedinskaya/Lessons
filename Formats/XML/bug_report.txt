@@ -1,0 +1,11 @@
+ID : 1
+Severity : Major
+Priority : Medium
+Enviroment : All
+Preconditions : The user is logged in 
+Summary : There is no opportunity to save changes on "My profile" page
+Steps : 1. Open "My profile" page; 2. Change age in "My age" drop-down; 3. Click on "Save" button
+Actual result : The changes were not saved. The button is visually inactive. Request not sent
+Expected result : The changes are saved . The button is visually active
+Attachments : 1
+Notes: 
