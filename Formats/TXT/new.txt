@@ -1,0 +1,4 @@
+Name : Pobedinskaya Tanya
+Age : 23
+Pets : 0
+Salary : 123
